@@ -1,0 +1,22 @@
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Recherche</a>
+  <ul class="dropdown-menu">
+    <li><a href="/breeders/search">Wizard</a></li>
+    <li><a href="/search/phenotypes/stock">Accessions and Plots</a></li>
+    <li><a href="/search/organisms">Organismes</a></li>
+    <li><a href="/search/cross">Progenies and Croisements</a></li>
+    <li><a href="/search/trials">Essais Champs</a></li>
+    <li><a href="/search/genotyping_trials">Essais Genotypage</a></li>
+    <li><a href="/search/genotyping_data_projects">Projets de genotypage</a></li>
+    <li><a href="/search/genotyping_protocols">Protocols de genotypage</a></li>
+    <li><a href="/search/traits"></a></li>
+    <li><a href="/search/markers">Marqueurs</a></li>
+    <li><a href="/search/images">Images</a></li>
+    <li><a href="/search/people">Personnes</a></li>
+    <li><a href="/help/faq.pl">Questions frequentes</a></li>
+
+
+    <li role="separator" class="divider"></li>
+    <li><a href="/search/direct_search.pl?search=loci">Recherche avancee</a></li>
+
+  </ul>
+</li>
